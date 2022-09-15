@@ -43,4 +43,4 @@ AmityUIKit has sample app you can play along with it. It is written with Swift.
 
 ## License
 
-Public Framework. Copyright (c) 2020 [Amity](https://www.amity.co).
+Public Framework. Copyright © 2022 Amity.
